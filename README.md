@@ -9,7 +9,11 @@ MIDI content converted using: https://github.com/LenShustek/miditones
 
 Example MIDI content taken from: http://www.mariopiano.com/
 
+This lib uses the ArduinoStreaming lib from here: https://github.com/geneReeves/ArduinoStreaming/
+
 
 ### How to install:
 
 - download ZIP package and unpack to /Arduino/libraries folder.
+
+
